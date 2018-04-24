@@ -1,0 +1,12 @@
+---
+layout: default
+title: Title
+---
+
+<h1><a href={{ page.link }}>{{ page.title }}</a></h1>
+<p class="view">by {{ page.author | default: site.author }} ({{ page.year }})</p>
+
+<h3>Abstract</h3>
+{{content}}
+
+<small>{{ page.date | date: "%-d %B %Y" }} - {{ page.presenter }}</small>
