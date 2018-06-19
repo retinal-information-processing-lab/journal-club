@@ -10,10 +10,15 @@ date: 2018-04-24 16:30:00 +0200
 | April 11 | Elaine Orendorff |
 | April 18 | Jacob Huth |
 | April 25 | Baptiste Lefebvre |
-| May 2 | Ulisse Ferrari |
-| May 9 | Olivier Marre |
-| May 16 | Franceso Trapani |
-| May 23 | Giulia Spampinato |
+| May 16 | William Bialek's lecture |
+| May 22 | William Bialek's lecture |
+| May 29 | William Bialek's lecture |
+| Jun 5 | William Bialek's lecture |
+| Jun 12 | William Bialek's lecture |
+| Jun 20 | Olivier Marre |
+| Jun 27 | Ulisse Ferrari |
+| Jul 04 | Franceso Trapani |
+| Jul 11 | Giulia Spampinato |
 
 
 # Articles
