@@ -6,6 +6,7 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2018)
 
+
 | April 4 | Matthew Chalk |
 | April 11 | Elaine Orendorff |
 | April 18 | Jacob Huth |
@@ -16,9 +17,9 @@ date: 2018-04-24 16:30:00 +0200
 | Jun 5 | William Bialek's lecture |
 | Jun 12 | William Bialek's lecture |
 | Jun 20 | Olivier Marre |
-| Jun 27 | Ulisse Ferrari |
-| Jul 04 | Franceso Trapani |
-| Jul 11 | Giulia Spampinato |
+| Jul 13 | Oleksandr |
+| Jul 18 | Tristan Fauvel |
+| Jul 25 | Danica Despotovic |
 
 
 # Articles
