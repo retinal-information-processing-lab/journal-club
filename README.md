@@ -1,4 +1,4 @@
-# How to add a paper to the reading list
+# How to add a paper to the reading list?
 
 1. Copy the following template:
 ```
