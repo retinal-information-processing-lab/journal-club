@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 3.7.3"
+gem "jekyll", ">= 3.7.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minimal"
@@ -28,3 +28,9 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# Remediation to security vulnerabilities.
+gem "loofah", ">= 2.2.3"
+gem "rack", ">= 1.6.11"
+gem "nokogiri", ">= 1.8.5"
+gem "ffi", ">= 1.9.24"
+gem "rubyzip", ">= 1.2.2"
