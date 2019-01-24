@@ -4,32 +4,19 @@ title: "Index"
 date: 2018-04-24 16:30:00 +0200
 ---
 
-# Schedule (2018)
+# Schedule (2019)
 
+| January 10 | Matthew Chalk |
+| January 17 | Danica Despotović |
+| January 31 | Overview of recent papers |
+| February 7 | Elaine Orendorff |
+| February 14 | Olivier Marre |
+| February 21 | Baptiste Lefebvre |
+| February 28 | Overview of recent papers |
+| March 7 | Francesco Trapani |
+| March 14 | Ulisse Ferrari |
 
-| April 4 | Matthew Chalk |
-| April 11 | Elaine Orendorff |
-| April 18 | Jacob Huth |
-| April 25 | Baptiste Lefebvre |
-| May 16 | William Bialek's lecture |
-| May 22 | William Bialek's lecture |
-| May 29 | William Bialek's lecture |
-| Jun 5 | William Bialek's lecture |
-| Jun 12 | William Bialek's lecture |
-| Jun 20 | Olivier Marre |
-| Jul 13 | Oleksandr |
-| Jul 18 | Tristan Fauvel |
-| Jul 25 | Danica Despotovic |
+# Links
 
-
-# Articles
-
-{% for post in site.posts %}
-  <small>{{ post.date | date: "%-d %B %Y" }}</small>
-  <br>
-  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-  <br>
-  {{ post.author }} ({{ post.year }})
-  <hr>
-{% endfor %}
-
+- <a href="{{ site.baseurl }}/reading_list">Reading list</a>
+- <a href="{{ site.baseurl }}/read_list">Read list</a>

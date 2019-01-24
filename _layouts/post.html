@@ -9,4 +9,6 @@ title: Title
 <h3>Abstract</h3>
 {{content}}
 
+{% if page.categories contains "article" %}
 <small>{{ page.date | date: "%-d %B %Y" }} - {{ page.presenter }}</small>
+{% endif %}
