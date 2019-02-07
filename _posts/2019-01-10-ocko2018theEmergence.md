@@ -21,4 +21,3 @@ categories: article
 > and parasol cells that are now further subdivided into ON and OFF types. Thus our work provides a theoretical justification, based on 
 > the efficient coding of natural movies, for the existence of the four most dominant cell types in the primate retina that together 
 > comprise 70% of all ganglion cells.
----
