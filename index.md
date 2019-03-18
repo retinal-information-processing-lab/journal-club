@@ -12,9 +12,11 @@ date: 2018-04-24 16:30:00 +0200
 | February 7 | Elaine Orendorff |
 | February 14 | Olivier Marre |
 | February 21 | Baptiste Lefebvre |
-| February 28 | Overview of recent papers |
-| March 7 | Francesco Trapani |
-| March 14 | Ulisse Ferrari |
+| February 28 | skipped |
+| March 7 | Overview of Cosyne (Olivier Marre) |
+| March 14 | Overview of recent papers |
+| March 21 | Francesco Trapani |
+| March 28 | Ulisse Ferrari |
 
 # Links
 
