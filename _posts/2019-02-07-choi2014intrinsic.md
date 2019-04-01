@@ -30,3 +30,5 @@ categories: article
 >bursts of action potentials in ganglion cells. We conclude that oscillations are not an emergent property of a degenerated retinal network.
 >Rather, they arise largely from the intrinsic properties of a single
 >retinal interneuron, the AII amacrine cell.
+
+---
