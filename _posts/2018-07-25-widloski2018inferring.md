@@ -4,7 +4,7 @@ title: "Inferring circuit mechanisms from sparse neural recording and global per
 author: "John Widloski and Ila R Fiete"
 year: "2018"
 link: "https://doi.org/10.7554/eLife.33503"
-presenter: "Danica Despotovic"
+presenter: "Danica Despotović"
 date: 2018-07-25 09:30:00 +0200
 categories: article
 ---

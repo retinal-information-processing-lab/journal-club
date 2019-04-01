@@ -6,17 +6,18 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2019)
 
-| January 10 | Matthew Chalk |
-| January 17 | Danica Despotović |
-| January 31 | Overview of recent papers |
-| February 7 | Elaine Orendorff |
-| February 14 | Olivier Marre |
-| February 21 | Baptiste Lefebvre |
-| February 28 | skipped |
-| March 7 | Overview of Cosyne (Olivier Marre) |
-| March 14 | Overview of recent papers |
-| March 21 | Francesco Trapani |
-| March 28 | Ulisse Ferrari |
+| 4.4. | Semih |
+| 11.4. | Gabriel |
+| 18.4. | Olivier |
+| 25.4. | Matthew |
+| 2.5. | Tristan |
+| 9.5. | Danica |
+| 16.5. | Ulisse |
+| 23.5. | Elaine |
+| 30.5. | holiday | 
+| 6.6. | Francesco |
+| 13.6. | Overview of recent papers |   
+| 20.6. | Baptiste |
 
 # Links
 
