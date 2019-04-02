@@ -6,7 +6,7 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2019)
 
-| 4.4. | Semihcan Sermet |
+| 4.4. | Beret Semihcan Sermet |
 | 11.4. | Gabriel |
 | 18.4. | Olivier Marre |
 | 25.4. | Francesco Trapani |
