@@ -10,7 +10,7 @@ date: 2018-04-24 16:30:00 +0200
 | 11.4. | Olivier Marre |
 | 18.4. | Tristan Fauvel |
 | 25.4. | Francesco Trapani |
-| 2.5. | Gabriel |
+| 2.5. | Gabriel Mahuas |
 | 9.5. | Danica Despotović |
 | 16.5. | Ulisse Ferrari |
 | 23.5. | Elaine Orendorff |
