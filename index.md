@@ -9,15 +9,15 @@ date: 2018-04-24 16:30:00 +0200
 | 4.4. | Beret Semihcan Sermet |
 | 11.4. | Olivier Marre |
 | 18.4. | Tristan Fauvel |
-| 25.4. | Francesco Trapani |
-| 2.5. | Gabriel Mahuas |
+| 2.5. | Francesco Trapani |
 | 9.5. | Danica Despotović |
-| 16.5. | Ulisse Ferrari |
-| 23.5. | Elaine Orendorff |
-| 30.5. | holiday | 
-| 6.6. | Matthew Chalk |
-| 13.6. | Overview of recent papers |   
-| 20.6. | Baptiste Lefebvre |
+| 16.5. | Gabriel Mahuas |
+| 23.5. | Ulisse Ferrari |
+| 30.5. | Elaine Orendorff |
+| 6.6. | holiday | 
+| 13.6. | Matthew Chalk |
+| 20.6. | Overview of recent papers |   
+| 27.6. | Baptiste Lefebvre |
 
 # Links
 
