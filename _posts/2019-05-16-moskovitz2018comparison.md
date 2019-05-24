@@ -1,0 +1,12 @@
+---
+layout: post
+title: "A comparison of deep learning and linear-nonlinear cascade approaches to neural encoding"
+author: "Theodore H. Moskovitz, Nicholas A. Roy, Jonathan W. Pillow"
+year: "2018"
+link: "https://doi.org/10.1101/463422"
+presenter: "Gabriel Mahuas"
+date: 2019-05-16 09:30:00 +0200
+categories: article
+---
+
+> A large body of work on neural encoding has focused on “cascade” type models such as the linear-nonlinear-Poisson (LNP) model. This approach seeks to describe the encoding process in terms of a series of stages: (1) projection of the stimulus onto a bank of linear filters; (2) a nonlinear function combining these filter outputs; and (3) a noisy spike generation process. Here we explore the relationship of the LNP modeling framework to more recent approaches arising from the deep learning literature. Specifically, we show that deep neural network (DNN) and convolutional neural network (CNN) models of neural activity sit firmly within the LNP framework, and correspond to particular parametrizations of the nonlinear stage of the LNP model. Using data from primate retina and primary visual cortex, we compare the performance of LNP models fit with deep learning methods to LNP models fit with traditional estimators, including spike-triggered covariance (STC), information-theoretic spike-triggered averaging and covariance (iSTAC), and maximum likelihood estimators also known as “maximally informative dimensions” (MID). We show that models with nonlinearities parametrized by deep networks achieve higher accuracy for a fixed number of filters, and can extract a larger number of informative filters than traditional models. Finally, we perform a dimensionality analysis of LNP models trained with deep learning methods, revealing that a large number of filters are needed to accurately describe the neural responses of many cells even early in the visual pathway. This result overturns one of the central tenets of the LNP modeling framework: that neural computations are low-dimensional, or depend on the stimulus only via its projection onto a small number of linear filters. We discuss the implications of these findings for both the fitting and interpretation of LNP encoding models.
