@@ -12,7 +12,6 @@ categories: to_read
 ---
 
 > Abstract.
-
 ```
 2. Change directory to `_posts`...
 3. Click on `Create a new file`...
@@ -40,7 +39,6 @@ categories: article
 ---
 
 > Abstract.
----
 ```
 2. Change directory to `_posts`...
 3. Click on `Create a new file`...
