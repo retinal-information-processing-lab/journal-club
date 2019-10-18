@@ -11,13 +11,13 @@ date: 2018-04-24 16:30:00 +0200
 | 17.10. | Ulisse Ferrari |
 | 22.10. | Olivier Marre |      
 | 31.10. | Elaine Orendorff |        
-| 5.11. | Tristan Fauvel |      
+| 4.11. | Tristan Fauvel |      
 | 14.11. | Matthew Chalk |      
-| 19.11. | Danica Despotović |
-| 26.11. | Francesco Trapani |    
-| 3.12. | Baptiste Lefebvre |
-| 10.12. | Thomas Buffet | 
-| 17.12. | Semih Sermet | 
+| 18.11. | Danica Despotović |
+| 25.11. | Francesco Trapani |    
+| 2.12. | Baptiste Lefebvre |
+| 9.12. | Thomas Buffet | 
+| 16.12. | Semih Sermet | 
 
 # Links
 
