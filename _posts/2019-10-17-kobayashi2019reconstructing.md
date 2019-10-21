@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: "Reconstructing neuronal circuitry from parallel spike trains"
 author: "Ryota Kobayashi, Shuhei Kurita, Anno Kurth, Katsunori Kitano, Kenji Mizuseki, Markus Diesmann, Barry J. Richmond & Shigeru Shinomoto"
