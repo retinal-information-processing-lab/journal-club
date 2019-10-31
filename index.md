@@ -8,17 +8,16 @@ date: 2018-04-24 16:30:00 +0200
 
 | 1.10. | Conferences overview (European retina meeting, Bernstein, NCCD) pt. 1 |     
 | 8.10. | Conferences overview (European retina meeting, Bernstein, NCCD) pt. 2 |        
-
 | 17.10. | Ulisse Ferrari |      
-| 31.10. | Danica Despotović |        
-| 5.11. | Tristan Fauvel |      
+| 31.10. | Semih Sermet |        
+| 4.11. | Danica Despotović |      
 | 14.11. | Matthew Chalk |      
-| 19.11. | Elaine Orendorff |    
-| 26.11. | Francesco Trapani |    
-| 3.12. | Baptiste Lefebvre |
-| 10.12. | Thomas Buffet |     
-| 17.12. | Semih Sermet |     
-| 24.12. | Olivier Marre |     
+| 18.11. | Elaine Orendorff |    
+| 28.11. | Francesco Trapani |    
+| 2.12. | Baptiste Lefebvre |
+| 9.12. | Thomas Buffet |     
+| 16.12. | Tristan Fauvel |     
+| 23.12. | Olivier Marre |     
 
 # Links
 
