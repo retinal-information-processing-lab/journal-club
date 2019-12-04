@@ -13,11 +13,12 @@ date: 2018-04-24 16:30:00 +0200
 | 4.11. | Danica Despotović |      
 | 14.11. | Matthew Chalk |      
 | 18.11. | Elaine Orendorff |    
-| 28.11. | Francesco Trapani |    
-| 2.12. | Baptiste Lefebvre |
-| 9.12. | Thomas Buffet |     
-| 16.12. | Tristan Fauvel |     
-| 23.12. | Olivier Marre |     
+| 4.12. | Francesco Trapani |    
+| 12.12. | guest lecture: Trang-Anh Nghiem |
+| 16.12. | Baptiste Lefebvre |
+| 9.1. | Thomas Buffet |     
+| 13.1. | Tristan Fauvel |     
+| 23.1. | Olivier Marre |     
 
 # Links
 
