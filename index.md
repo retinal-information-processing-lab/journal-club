@@ -6,19 +6,16 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2019)
 
-| 1.10. | Conferences overview (European retina meeting, Bernstein, NCCD) pt. 1 |     
-| 8.10. | Conferences overview (European retina meeting, Bernstein, NCCD) pt. 2 |        
-| 17.10. | Ulisse Ferrari |      
-| 31.10. | Semih Sermet |        
-| 4.11. | Danica Despotović |      
-| 14.11. | Matthew Chalk |      
-| 18.11. | Elaine Orendorff |    
-| 4.12. | Francesco Trapani |    
-| 12.12. | guest lecture: Trang-Anh Nghiem |
-| 16.12. | Baptiste Lefebvre |
-| 9.1. | Thomas Buffet |     
-| 13.1. | Tristan Fauvel |     
-| 23.1. | Olivier Marre |     
+| 06.02. | Danica Despotović |
+| 13.02. | Ulisse Ferrari |
+| 20.02. | Semih Sermet |
+| 27.02. | Francesco Trapani |
+| 05.03. | Baptiste Lefebvre |
+| 12.03. | Matthew Chalk |
+| 19.03. | Olivier Marre |
+| 26.03. | Tristan Fauvel |
+| 02.04. | Deborah |
+| 09.04. | Elaine Orendorff |
 
 # Links
 
