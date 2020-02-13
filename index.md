@@ -14,7 +14,7 @@ date: 2018-04-24 16:30:00 +0200
 | 12.03. | Matthew Chalk |
 | 19.03. | Olivier Marre |
 | 26.03. | Tristan Fauvel |
-| 02.04. | Deborah |
+| 02.04. | Deborah Verro |
 | 09.04. | Elaine Orendorff |
 
 # Links
