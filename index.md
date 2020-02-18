@@ -6,16 +6,16 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2019)
 
-| 06.02. | Danica Despotović |
-| 13.02. | Ulisse Ferrari |
 | 20.02. | Semih Sermet |
-| 27.02. | Francesco Trapani |
+| 27.02. | Matthew Chalk |
 | 05.03. | Baptiste Lefebvre |
-| 12.03. | Matthew Chalk |
+| 12.03. | Francesco Trapani |
 | 19.03. | Olivier Marre |
 | 26.03. | Tristan Fauvel |
 | 02.04. | Deborah Verro |
 | 09.04. | Elaine Orendorff |
+| 16.04. | Ulisse Ferrari |
+| 23.04. | Danica Despotović |
 
 # Links
 
