@@ -13,9 +13,9 @@ date: 2018-04-24 16:30:00 +0200
 | 19.03. | Olivier Marre |
 | 26.03. | Tristan Fauvel |
 | 02.04. | Deborah Verro |
-| 09.04. | Elaine Orendorff |
+| 09.04. | Danica Despotović |
 | 16.04. | Ulisse Ferrari |
-| 23.04. | Danica Despotović |
+| 23.04. | Elaine Orendorff |
 
 # Links
 
