@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "title: "Multiplicative and Additive Modulation of Neuronal Tuning with Population Activity Affects Encoded Information"
+title: "Multiplicative and Additive Modulation of Neuronal Tuning with Population Activity Affects Encoded Information"
 author: "Inigo Arandia-Romero, Seiji Tanabe, Jan Drugowitsch, Adam Kohn, Ruben Moreno-Bote"
 year: "2016"
 link: "https://doi.org/10.1016/j.neuron.2016.01.044"
