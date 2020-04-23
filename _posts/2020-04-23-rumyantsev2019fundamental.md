@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Fundamental bounds on the fidelity of sensory cortical coding"
+author: "Oleg I. Rumyantsev, Jérôme A. Lecoq, Oscar Hernandez, Yanping Zhang, Joan Savall, Radosław Chrapkiewicz, Jane Li, Hongkui Zeng, Surya Ganguli & Mark J. Schnitzer"
+year: "2019"
+link: "https://doi.org/10.1038/s41586-020-2130-2"
+presenter: "Ulisse Ferrari"
+date: 2020-04-23 09:30:00 +0200
+categories: article
+---
+> How the brain processes information accurately despite stochastic neural activity is a longstanding question. For instance, perception is fundamentally limited by the information that the brain can extract from the noisy dynamics of sensory neurons. Seminal experiments suggest that correlated noise in sensory cortical neural ensembles is what limits their coding accuracy, although how correlated noise afects neural codes remains debated. Recent theoretical work proposes that how a neural ensemble’s sensory tuning properties relate statistically to its correlated noise patterns is a greater determinant of coding accuracy than is absolute noise strength. However, without simultaneous recordings from thousands of cortical neurons with shared sensory inputs, it is unknown whether correlated noise limits coding fdelity. Here we present a 16-beam, two-photon microscope to monitor activity across the mouse primary visual cortex, along with analyses to quantify the information conveyed by large neural ensembles. We found that, in the visual cortex, correlated noise constrained signalling for ensembles with 800–1,300 neurons. Several noise components of the ensemble dynamics grew proportionally to the ensemble size and the encoded visual signals, revealing the predicted information-limiting correlations. Notably, visual signals were perpendicular to the largest noise mode, which therefore did not limit coding fdelity. The information-limiting noise modes were approximately ten times smaller and concordant with mouse visual acuity. Therefore, cortical design principles appear to enhance coding accuracy by restricting around 90% of noise fuctuations to modes that do not limit signalling fdelity, whereas much weaker correlated noise modes inherently bound sensory discrimination.
