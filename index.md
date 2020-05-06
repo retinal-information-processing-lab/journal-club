@@ -4,18 +4,18 @@ title: "Index"
 date: 2018-04-24 16:30:00 +0200
 ---
 
-# Schedule (2019)
+# Schedule (2020)
 
-| 20.02. | Semih Sermet |
-| 27.02. | Matthew Chalk |
-| 05.03. | Baptiste Lefebvre |
-| 12.03. | Francesco Trapani |
-| 26.03. | Olivier Marre |
-| 02.04. | Tristan Fauvel |
-| 09.04. | Deborah Verro |
-| 16.04. | Danica Despotović |
-| 23.04. | Ulisse Ferrari |
-| 30.04. | Elaine Orendorff |
+| 07.05. | Tristan | 
+| 14.05. | Baptiste | 
+| 21.05. | Francesco | 
+| 28.05. | Ulisse | 
+| 04.06. | Danica | 
+| 11.06. | Deby | 
+| 18.06. | Olivier | 
+| 25.06. | Matthew | 
+| 02.07. | Mathieu | 
+| 09.07. | Elaine | 
 
 # Links
 
