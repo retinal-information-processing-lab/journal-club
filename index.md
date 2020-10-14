@@ -6,16 +6,18 @@ date: 2018-04-24 16:30:00 +0200
 
 # Schedule (2020)
 
-| 07.05. | Tristan | 
-| 14.05. | Baptiste | 
-| 21.05. | Francesco | 
-| 28.05. | Ulisse | 
-| 04.06. | Danica | 
-| 11.06. | Deby | 
-| 18.06. | Olivier | 
-| 25.06. | Matthew | 
-| 02.07. | Mathieu | 
-| 09.07. | Elaine | 
+| 14.10. | Deby | 
+| 21.10. | Ulisse | 
+| 28.10. | Francesco | 
+| 04.11. | Gabriel | 
+| 11.11. | Olivier | 
+| 18.11. | Thomas | 
+| 25.11. | Baptiste | 
+| 02.12. | Danica | 
+| 09.12. | Matthew | 
+| 16.12. | Matias | 
+| 23.12. | Tristan | 
+| 30.12. | Elaine | 
 
 # Links
 
